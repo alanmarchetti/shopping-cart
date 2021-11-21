@@ -44,4 +44,8 @@ Uma aplicação de carrinho de compras, desenvolvida com react e typescript, con
 
 ### Carrinho Items
 <img src="./src/img/cart-open.png" />
+<<<<<<< HEAD
 <hr>
+=======
+<hr>
+>>>>>>> fd2824527c272e8be69d8db3b6056365f6651928
