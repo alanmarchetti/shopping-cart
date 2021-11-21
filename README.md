@@ -6,7 +6,8 @@ Uma aplicação de carrinho de compras, desenvolvida com react e typescript, con
 
 ## Deploy da aplicação
 
-[Link para visualizar a aplicação](custom-shopping-cart.netlify.app)
+[Link para visualizar a aplicação](https://custom-shopping-cart.netlify.app/)
+<hr>
 
 ## Como utilizar este projeto
 - Clone este repositório
@@ -16,7 +17,7 @@ Uma aplicação de carrinho de compras, desenvolvida com react e typescript, con
 <hr>
 
 ## Comandos necessários
-`npm i` = para instalar as dependências
-`npm start ` = para inicializar a aplicação ( em ` localhost:3000 `)
+-`npm i` = para instalar as dependências
+-`npm start ` = para inicializar a aplicação ( em ` localhost:3000 `)
 <hr>
 
